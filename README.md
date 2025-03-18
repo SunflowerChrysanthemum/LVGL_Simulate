@@ -1,0 +1,2 @@
+# LVGL_Simulate
+在LVGL学习过程中使用过的基于Blockcode的lvgl模拟器，基于的项目为X-Track
